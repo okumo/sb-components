@@ -1,13 +1,13 @@
 {
-  "name": "fh-my-storybook-components",
+  "name": "okumo-my-storybook-components",
   "version": "0.1.0",
   "private": false,
   "license": "MIT",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
-  "homepage": "https://fernando-herrera.com",
+  "homepage": "https://github.com/okumo",
   "repository": {
-    "url": "https://github.com/Klerith/sb-components",
+    "url": "https://github.com/okumo/sb-components",
     "type": "git"
   },
   "peerDependencies": {
@@ -75,7 +75,7 @@
     "copyfiles": "^2.4.1",
     "css-loader": "^6.4.0",
     "rimraf": "^3.0.2",
-    "semantic-release": "^18.0.0"
+    "semantic-release": "^19.0.2"
   },
   "plugins": [
     "@semantic-release/commit-analyzer",
@@ -84,5 +84,5 @@
     "@semantic-release/github",
     "@semantic-release/npm",
     "@semantic-release/git"
-  ]
+]
 }
